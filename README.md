@@ -1,4 +1,4 @@
-# Movie Recommendation Project
+# Movie Recommendation System Project
 
 The Movie Recommendation Project is a software application that provides personalized movie recommendations based on the movies users like. 
 It utilizes advanced recommendation algorithms to analyze user preferences and generate accurate and relevant movie suggestions.
