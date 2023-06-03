@@ -3,3 +3,4 @@
 similarity.pkl filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.idea,app.py,movie_dict.pkl,venv filter=lfs diff=lfs merge=lfs -text
+venv filter=lfs diff=lfs merge=lfs -text
